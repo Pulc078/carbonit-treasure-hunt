@@ -1,0 +1,5 @@
+fr\carbonit\treasurehunt\businessservice\aventurier\impl\AventurierBSImplTest.class
+fr\carbonit\treasurehunt\businessservice\carte\impl\CarteBSImplTest.class
+fr\carbonit\treasurehunt\ApplicationTests.class
+fr\carbonit\treasurehunt\businessservice\base\BaseBSTest.class
+fr\carbonit\treasurehunt\businessservice\carte\impl\LigneBSImplTest.class
