@@ -5,7 +5,7 @@ Lancer le projet
     Passer par son IDE favoris. Par exemple Intellij ou Eclipse\
     Lancer une commande Maven clean install -U \
     Lancer le projet depuis la classe TreasurHunt\
-    Propriété du fichier D:\Dev_projet\treasure-hunt\src\main\resources\application.properties, dans le fichier application.properties vous pouvez modifier le chemin du fcihier d'entrée (fileOutputName), le nom du fichier de sortie("fileOutputName") et son chemin de sortie ("fileOutputPath");
+    Propriété du projet : D:\Dev_projet\treasure-hunt\src\main\resources\application.properties, dans le fichier application.properties vous pouvez modifier le chemin du fichier d'entrée (fileOutputName), le nom du fichier de sortie("fileOutputName") et son chemin de sortie ("fileOutputPath");
     
     
 #Architecture
